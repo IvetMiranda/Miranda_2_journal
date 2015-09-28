@@ -1,0 +1,18 @@
+Question1. The command for listing files in Linux is ls.
+Question2. The command for listing files in Linux in reverse time order is ls -rt
+Question3. The command for listing files in Linux in reverse time order with access times and permission is ls -rt -al  
+Question4. You could do this command so you don't find any axccessive files other than the one's you've been assigned to find.
+Question5. To search the contents of one file you do the command  grep -ai "words" file
+Question6. A regular expression search for social security numbers is | grep -ai "[0-9]]{3}[0-9]{2}[0-9]{4}[^A-Z]
+Question7. And the regual expression search for e-mails cat -n file.fil | grep -ai "[^@]*@.*[^.]*[.].*'
+Question8. The way to search the contents of a disk image for a text string is using grep
+Question9. It would be an easier and more effienct way of locating the contents of a file 
+Question10. The most basic way to find files in linux is by typing file.
+Question11. The command to find XLS documnets in a directory is  cat floppycontents.txt | grep .*xls
+Question12. To check all files and and when they are motified to identify their charcteristcs  
+Question13. The command to list disk charcteristics is fdisk.
+Question14.
+Question15.
+
+^X
+ 
