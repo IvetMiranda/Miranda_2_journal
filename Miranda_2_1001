@@ -1,0 +1,7 @@
+File systems are used  to see how files are placed in a certian location to be able to acess later. 
+
+An inode is a data structure used to represnet a filesystem object. 
+
+In personal computers, a partition is a logical division of a hard disk created so that you can have different operating systems
+
+A  journaling file system keeps track of changes that haven't been cometed yet and is bascially like a back up plan,
