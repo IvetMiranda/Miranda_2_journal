@@ -1,0 +1,13 @@
+A disk image represents the content exactly as it is on the original storage decive, including both data and structure information 
+on the disk. It's a hard drive that may be saved as a virtual hard disk.
+
+
+A disk parition is splitting up the hard drive memory; all the imaginary sections of the hard drive. 
+
+
+The are many imaginary sections in the hard drive. 
+
+It doesn't know what to mount unless you are very specfic with your mounting.
+
+There are many steps in the this processs to mounting a disk image.
+

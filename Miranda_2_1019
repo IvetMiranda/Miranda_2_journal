@@ -1,0 +1,9 @@
+A disk image is basically are hard drive that you can clone. 
+
+And the command to do that is
+ dd if=/dev/sda 
+A partition is splitting up the hard drive memory; imaginary sections of the hard drive. 
+It can depend on how many disk partitions are in a drive, but usually there are about 3 or 4. 
+The few  difficulties can be when you mount the images you only end up mounting one, which is not good becuase you want to mount them all.
+
+The steps you need to take to work with this 
