@@ -1,0 +1,5 @@
+Data carving is a sort of technique to recover certian data. And you can search through certian sectors of the files you're searching for. 
+
+One command you can use to find it is fdisk
+
+it relates to us finding  what files are in a sector.
