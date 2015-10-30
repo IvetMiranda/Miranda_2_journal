@@ -1,0 +1,11 @@
+We use the disk image in digital forensic to see any partitions and to
+ use it to our advantage. 
+ 
+We can see any hard drives that might have any viruses on it or 
+any threats that might have been occuring in your computer. 
+
+The steps of creating and blank disk and the adding files are: 
+
+fallocate -l 10M imagename
+
+cfdisk imagename 
