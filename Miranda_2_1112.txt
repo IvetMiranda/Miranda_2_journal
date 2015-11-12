@@ -1,0 +1,6 @@
+I know there is a way you can combine miltiple files on Linux
+but sadly once again I have no idea what to do, or how to do that. I will 
+once again ask my fellow classmates on what to do. 
+
+I'm sure tthe command for it is very extremly easy, but i have no idea what 
+to do. 
