@@ -1,0 +1,4 @@
+I did not nor do I know how to combine multile files in linux,
+But since this is a research I found a website that i think will be the one to 
+hold the truth. One way to unsplit the image is to cat the file. 
+
