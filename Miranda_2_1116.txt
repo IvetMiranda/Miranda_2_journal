@@ -1,0 +1,11 @@
+One of the secfic commands to create, partition, and write files to  disk
+image is, 
+
+Split -b sizeofmemory /place/ name_ 
+
+partition disk image -mount -v -o -t ext4 imag.imp /place 
+
+Then you put your files in your desiganted mounted older
+then for whatever reason you unmount it /place
+
+
