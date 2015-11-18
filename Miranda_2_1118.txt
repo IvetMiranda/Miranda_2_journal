@@ -1,0 +1,6 @@
+A file headrer is what tells what the image is. I think it's the same 
+for a jpeg. 
+
+You could grep it and a hex editor to find the header, or you could google it. 
+And you could google fing jpeg header, or find jpeg linux 
+
