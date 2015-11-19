@@ -1,0 +1,15 @@
+The process for locating the beginning of an image is:
+1) Find the start of the JPEG (xxd and grep)
+2) Find the end of the JPEG (xxd and grep)
+3) Calculate the size of the JPEG (in bytes using bc)
+4) Cut from the staert to the end and output to a file (using dd) 
+
+
+First we search for the start of the JPEG(header). We search fo search for its header by using the comman xxd. 
+Then we grep to find the line.
+Using the value from that - we use echo andbc to conver hexideciaml to a decimal number.
+For example, in the example from yesterday, we foun jpeg header  and converted it to decimal using the command "ibase=16;00052A0" | bc
+Then to find the end of the file, we searched for
+******************************************************
+Using that information, we find the number of bits, using the command echo "ibase=16;0006C74" | bc
+Then using dd we can reconstruct the file using the command xxd -s 21156 image_carve.raw | grep ffd9
