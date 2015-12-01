@@ -1,0 +1,16 @@
+What type of information does this site provide? Why?
+ Used primarily in graphics and image manipulation programs	
+
+How would a digital forensics expert use this information?
+ JFIF is designed to allow files containing JPEG-encoded data streams to be exchanged between otherwise incompatible systems and applications. 
+
+What is it for?
+ File headers are used to identify a file by examining the first 4 or 5 bytes of its hexadecimal content. 
+What information BE SPECIFIC do you need to recover:
+Letters numbers images passwords usernames and any other sort of file
+an Excel document?
+
+a Word document?
+	
+a ZIP file?
+
